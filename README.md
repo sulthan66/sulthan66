@@ -51,12 +51,15 @@ I'm a cybersecurity professional based in Nigeria, with a background that bridge
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| CompTIA Security+ (SY0-701) | CompTIA | ✅ Certified |
-| Media Health Champion | Breakthrough ACTION Nigeria / USAID | ✅ Awarded |
+## Certifications & training
+ 
+| Credential | Issuer | Date | Status |
+|---|---|---|---|
+| CompTIA Security+ (SY0-701) | CompTIA | Feb 2026 | ✅ Certified |
+| Cyber Security Bootcamp — CompTIA Security+ 701 | GoMyCode | Feb 2026 | ✅ Completed |
+| Pre Security Learning Path | TryHackMe | Feb 2026 | [THM-XRKREIQ6PX](https://tryhackme.com/certificate/THM-XRKREIQ6PX) |
+| Cybersecurity Fundamentals (SP-CS-F01) | Spark Bootcamp | Dec 2025 | ✅ Completed |
+| Google Cybersecurity Certificate | Google / Coursera | In progress | 🔄 Ongoing |
 
 ---
 
