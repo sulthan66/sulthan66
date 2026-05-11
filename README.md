@@ -42,10 +42,6 @@ I'm a cybersecurity professional based in Nigeria, with a background that bridge
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔐 [Mock Security Risk Assessment](#) | End-to-end risk assessment for a fictional Nigerian SME — threats mapped to the CIA triad with recommended controls | Risk frameworks, technical writing |
-| 🖧 [Secure Office LAN Design](#) | Network diagram for a small corporate office with VLAN segmentation, firewall rules, and DMZ | draw.io, Cisco notation |
-| 🎣 [Phishing Awareness Campaign](#) | Staff training brief + simulated phishing scenario designed for a non-technical workforce | Security+ knowledge, SBC methodology |
-| 🏠 [Home Lab Setup](#) | Documented build of a personal cybersecurity lab using VirtualBox, Kali Linux, and Metasploitable | VirtualBox, Kali Linux |
 
 > 🔗 Links will be added as projects are completed.
 
@@ -55,8 +51,8 @@ I'm a cybersecurity professional based in Nigeria, with a background that bridge
  
 | Credential | Issuer | Date | Status |
 |---|---|---|---|
-| CompTIA Security+ (SY0-701) | CompTIA | Feb 2026 | ✅ Certified |
-| Cyber Security Bootcamp — CompTIA Security+ 701 | GoMyCode | Feb 2026 | ✅ Completed |
+| CompTIA Security+ (SY0-701) | CompTIA | May 2026 | ✅ Certified |
+| Cyber Security Bootcamp | GoMyCode | Feb 2026 | ✅ Completed |
 | Pre Security Learning Path | TryHackMe | Feb 2026 | [THM-XRKREIQ6PX](https://tryhackme.com/certificate/THM-XRKREIQ6PX) |
 | Cybersecurity Fundamentals (SP-CS-F01) | Spark Bootcamp | Dec 2025 | ✅ Completed |
 | Google Cybersecurity Certificate | Google / Coursera | In progress | 🔄 Ongoing |
