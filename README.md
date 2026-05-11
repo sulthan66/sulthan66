@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sultan 👋</h1>
 
-<!--
-**sulthan66/sulthan66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>IT & Cybersecurity Professional · CompTIA Security+ Certified · Nigeria</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/asksultan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/Rarelys33n" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Certified-EA0000?style=flat&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm a cybersecurity professional based in Nigeria, with a background that bridges technology and communication. I hold the **CompTIA Security+ (SY0-701)** certification and i am actively building hands-on skills in network security, threat analysis, and IT support.
+
+---
+
+## Skills & tools
+
+**Cybersecurity**
+`Network Security` · `Risk Assessment` · `Threat Analysis` · `CIA Triad` · `SIEM Concepts` · `Phishing Awareness`
+
+**IT & Systems**
+`Windows & Linux Administration` · `VirtualBox / VM Setup` · `Network Diagramming` · `Active Directory Basics`
+
+**Tools**
+`Kali Linux` · `Wireshark` · `Nmap` ·  `Microsoft Office Suite` · `Google Workspace` · `Canva`
+
+**Communication & Productivity**
+`Technical Writing`  · `Social Media Management` · `Stakeholder Reporting`
+
+---
+
+## Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 🔐 [Mock Security Risk Assessment](#) | End-to-end risk assessment for a fictional Nigerian SME — threats mapped to the CIA triad with recommended controls | Risk frameworks, technical writing |
+| 🖧 [Secure Office LAN Design](#) | Network diagram for a small corporate office with VLAN segmentation, firewall rules, and DMZ | draw.io, Cisco notation |
+| 🎣 [Phishing Awareness Campaign](#) | Staff training brief + simulated phishing scenario designed for a non-technical workforce | Security+ knowledge, SBC methodology |
+| 🏠 [Home Lab Setup](#) | Documented build of a personal cybersecurity lab using VirtualBox, Kali Linux, and Metasploitable | VirtualBox, Kali Linux |
+
+> 🔗 Links will be added as projects are completed.
+
+---
+
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| CompTIA Security+ (SY0-701) | CompTIA | ✅ Certified |
+| Media Health Champion | Breakthrough ACTION Nigeria / USAID | ✅ Awarded |
+
+---
+
+## Currently working on
+
+- 🛠️ Building out hands-on portfolio projects (see above)
+- 📚 Exploring IT Support and network administration fundamentals
+- 🌍 Open to IT roles in international development, corporate, and NGO environments
+
+---
+
+<p align="center">
+  <i>"Security is a process, not a product."</i>
+</p>
