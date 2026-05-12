@@ -68,5 +68,5 @@ I'm a cybersecurity professional based in Nigeria, with a background that bridge
 ---
 
 <p align="center">
-  <i>"Security is a process, not a product."</i>
+  <i>"Security is a process, not a product"</i>
 </p>
